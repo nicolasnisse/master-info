@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Théorie des Graphes avancée"
-subheadline: "N. Nisse, CR CNRS"
+subheadline: "N. Nisse, CR Inria"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
