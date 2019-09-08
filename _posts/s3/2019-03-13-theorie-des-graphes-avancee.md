@@ -4,7 +4,7 @@ layout: syllabus
 # Content
 #
 title: "Théorie des Graphes avancée"
-subheadline: "N. Nisse, CR CNRS"
+subheadline: "N. Nisse, CR Inria"
 logo: "logo_blanc.png"
 teaser: ""
 categories:
@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: ""
-email: ""
+email: "nicolas.nisse@inria.fr"
 #
 # Styling
 #
